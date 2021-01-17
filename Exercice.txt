@@ -1,5 +1,0 @@
-1 Creer Unez Liste de Personne
-2 Ajouter 3 etudiantsm
-3 Ajouter 3 Professeurs
-4 Afficher la liste de Personne
-5 Supprimer toutes les personnes dont le NomComplet comme "D"
