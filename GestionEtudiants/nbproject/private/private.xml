@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/ClasseController.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/dao/DaoDetails.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/vmenu.fxml</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/dao/test/TestDao.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Metier/Service.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/GestionEtudiants.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/vconnexion.fxml</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/vattribuerclasse.fxml</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Details.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/dao/DaoMysql.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Etudiant.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/dao/IDao.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/InscriptionController.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/MenuController.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Convert.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Classe.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/dao/DaoPersonne.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Professeur.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Personne.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/vclasses.fxml</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/vinscription.fxml</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/AttribuerClasseController.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/dao/DaoClasse.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/Models/Admin.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/src/gestionetudiants/ConnexionController.java</file>
+            <file>file:/C:/Users/CLGS/Desktop/Troisiéme%20année/JAVA/T.P/GestionEtudiants/nbproject/build-impl.xml</file>
+        </group>
+    </open-files>
+</project-private>

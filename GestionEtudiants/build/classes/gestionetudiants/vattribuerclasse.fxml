@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="613.0" prefWidth="863.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="gestionetudiants.AttribuerClasseController">
+   <children>
+      <Label layoutX="45.0" layoutY="53.0" prefHeight="38.0" prefWidth="126.0" text="Matricule">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="45.0" layoutY="108.0" prefHeight="17.0" prefWidth="116.0" text="Nom">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="45.0" layoutY="173.0" prefHeight="17.0" prefWidth="116.0" text="Classe">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="481.0" layoutY="53.0" prefHeight="17.0" prefWidth="116.0" text="Grade">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="481.0" layoutY="108.0" prefHeight="17.0" prefWidth="116.0" text="Prenom">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <Label layoutX="481.0" layoutY="173.0" prefHeight="17.0" prefWidth="116.0" text="Modules">
+         <font>
+            <Font name="System Bold" size="26.0" />
+         </font>
+      </Label>
+      <TextField layoutX="193.0" layoutY="60.0" />
+      <TextField layoutX="193.0" layoutY="115.0" />
+      <TextField layoutX="193.0" layoutY="180.0" />
+      <TextField layoutX="628.0" layoutY="60.0" />
+      <TextField layoutX="628.0" layoutY="115.0" />
+      <TextField layoutX="628.0" layoutY="180.0" />
+   </children>
+</AnchorPane>
